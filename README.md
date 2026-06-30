@@ -16,4 +16,4 @@ Completed in Figma.
 - Figma
 
 ## Author
-Aryan shrivastava
+Aryan shrivastav
